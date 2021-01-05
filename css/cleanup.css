@@ -15,6 +15,6 @@ div#wall div#tag-3.slick {
   display: none;
 }
 
- {
+div[id="tag-5"] {
   display: none;
 }
