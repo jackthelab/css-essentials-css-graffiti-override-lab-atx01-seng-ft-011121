@@ -6,6 +6,9 @@ div .tag-1 {
 /*Good*/
 
 /* #wall #tag-2 */
+div#wall #tag-2 {
+  display: none;
+}
 
 
 /* div#wall #tag-3.slick */
