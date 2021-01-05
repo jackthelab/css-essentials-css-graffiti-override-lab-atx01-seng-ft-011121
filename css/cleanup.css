@@ -23,9 +23,13 @@ div#wall div#tag-3.slick {
 #wall .parent #tag-4 {
   display: none;
 }
+/*Good*/
 
 
 /* div#wall .parent #tag-5.slick */
+div#wall div.parent #tag-5.slick {
+  display: none;
+}
 
 
 /* div#wall div.parent div:last-child div#tag-6 */
